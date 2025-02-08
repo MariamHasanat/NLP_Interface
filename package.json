@@ -1,0 +1,20 @@
+{
+  "name": "nlp_interface",
+  "version": "1.0.0",
+  "description": "Udacity Project form scratch",
+  "homepage": "https://github.com/MariamHasanat/NLP_Interface#readme",
+  "bugs": {
+    "url": "https://github.com/MariamHasanat/NLP_Interface/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariamHasanat/NLP_Interface.git"
+  },
+  "license": "ISC",
+  "author": "Mariam Hasanat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
